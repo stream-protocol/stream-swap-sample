@@ -28,3 +28,4 @@ You should use it at your own risk.
 - Possible collect transaction fees
 - Stream Token (SPL, Solana) implementation
 - Cross-Chain support / network selector
+- More wallet connection features
