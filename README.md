@@ -17,3 +17,14 @@ https://swap-sample.vercel.app/
 ## Warning
 
 You should use it at your own risk.
+
+## Development/ToDo
+
+- Add Cryptocurrencies / tokens swap features
+- Stream Token market id, Raydium, API implementation
+- Stream RPC & API development
+- UI/UX tweaks, add/change Teko, Avenir font packs
+- Create/add StreamSwap logo
+- Possible collect transaction fees
+- Stream Token (SPL, Solana) implementation
+- Cross-Chain support / network selector
