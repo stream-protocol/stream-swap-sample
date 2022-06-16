@@ -1,5 +1,5 @@
 import SolLogo from '../../assets/images/solana-token.png';
-import RaydiumLogo from '../../assets/images/raydium-token.svg';
+import StrLogo from '../../assets/images/stream-token.png';
 
 export interface IList {
   name: string;
@@ -12,7 +12,7 @@ export const list = [
     logo: SolLogo,
   },
   {
-    name: 'RAY',
-    logo: RaydiumLogo,
+    name: 'STR',
+    logo: StrLogo,
   },
 ];
