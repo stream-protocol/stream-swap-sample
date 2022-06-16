@@ -39,7 +39,7 @@ const Swap = () => {
   useEffect(() => {
     setMyBalance({
       sol: getBalance(coin1?.mint)?.toExact() || '',
-      ray: getBalance(coin2?.mint)?.toExact() || '',
+      str: getBalance(coin2?.mint)?.toExact() || '',
     });
   }, [coin2, coin1, getBalance, pureBalances, balances]);
 
