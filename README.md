@@ -29,3 +29,4 @@ You should use it at your own risk.
 - Stream Token (SPL, Solana) implementation
 - Cross-Chain support / network selector
 - More wallet connection features
+- Possibility to buy tokens at credit card 
