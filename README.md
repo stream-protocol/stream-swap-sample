@@ -30,3 +30,4 @@ You should use it at your own risk.
 - Cross-Chain support / network selector
 - More wallet connection features
 - Possibility to buy tokens at credit card 
+- Adding Liquidity pools, staking, and governance features
